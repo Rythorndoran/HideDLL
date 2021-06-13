@@ -1,2 +1,4 @@
 # HideDLL
-Hide dynamic link library , support x64 and x86
+Hide a loaded dynamic link library from memory
+
+Support x64 and x86
